@@ -1,0 +1,41 @@
+# =====================================================
+# requirements.txt — Python packages
+# =====================================================
+
+# Web Framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+
+# Database
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9       # PostgreSQL driver
+alembic==1.13.2              # DB migrations (optional)
+
+# Settings
+pydantic==2.9.0
+pydantic-settings==2.5.2
+email-validator>=2.0.0
+python-dotenv==1.0.1
+
+# Authentication
+python-jose[cryptography]==3.3.0   # JWT
+bcrypt>=4.0.0                      # password hashing
+
+# File Upload
+python-multipart==0.0.12
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.2
+openpyxl==3.1.5
+
+# RAG & AI
+langchain==0.3.0
+langchain-community==0.3.0
+sentence-transformers==3.1.1   # all-MiniLM-L6-v2
+faiss-cpu==1.8.0               # vector database
+requests==2.32.3               # HuggingFace API calls
+
+# Utilities
+numpy==1.26.4
+ddgs>=9.0.0
