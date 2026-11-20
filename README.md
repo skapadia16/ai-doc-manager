@@ -580,8 +580,8 @@ Potential improvements for future development:
 
 AI / Machine Learning / Generative AI Enthusiast
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR_USERNAME/)
+- GitHub: (https://github.com/skapadia16)
+- LinkedIn: (https://www.linkedin.com/in/shreyas-kapadiya/)
 
 ---
 
